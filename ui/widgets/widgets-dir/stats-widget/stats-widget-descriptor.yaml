@@ -1,0 +1,6 @@
+code: stats-app
+titles:
+  en: Stats Template MF
+  it: Stats Template MF
+group: free
+customUiPath: stats-widget.ftl
